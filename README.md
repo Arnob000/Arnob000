@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm Arnob, a CSE undergraduate **(L4T2)** at Bangladesh University of Engineering and Technology.
 ⚡ I enjoy coding.
 🛠️ I’m currently working on my thesis on API Security.
-🌱 I’m also currently learning Machine learning.
+🌱 Also, I’m currently learning Machine learning.
 # Skills and Tools
 
 ## **Languages**
