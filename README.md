@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Arnob, a CSE undergraduate **(L4T2)** at Bangladesh University of Engineering and Technology.
-⚡ I enjoy coding.
-🛠️ I’m currently working on my thesis on API Security.
-🌱 Also, I’m currently learning Machine learning.
+I'm Arnob, a **CSE graduate** from Bangladesh University of Engineering and Technology (BUET).
+
+- ⚡ I enjoy coding.
+- 🛠️ Currently, I'm working on REST API security and brain tumor segmentation from MRI images.
+- 🌱 I'm also interested in working on computer vision-related topics.
 # Skills and Tools
 
 ## **Languages**
