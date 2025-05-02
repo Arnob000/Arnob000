@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 I'm Arnob, a **CSE graduate** from Bangladesh University of Engineering and Technology (BUET).
 
-- ⚡ I enjoy coding.
-- 🛠️ Currently, I'm working on REST API security and brain tumor segmentation from MRI images.
-- 🌱 I'm also interested in working on computer vision-related topics.
+ ⚡ I enjoy coding.  
+ 🛠️ Currently, I'm working on REST API security and brain tumor segmentation from MRI images.  
+ 🌱 I'm also interested in working on computer vision-related topics.
 # Skills and Tools
 
 ## **Languages**
